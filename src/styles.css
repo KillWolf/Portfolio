@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+.home {
+	height:100vh;
+	background: url(assets/images/heroimage1.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.ns {
+	.placement {
+		position: absolute;
+		right: 10px;
+		top: 10px;
+		color: white;
+	}
+}
